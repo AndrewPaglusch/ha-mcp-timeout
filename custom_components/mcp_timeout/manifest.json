@@ -1,0 +1,11 @@
+{
+  "domain": "mcp_timeout",
+  "name": "MCP Client Timeout",
+  "codeowners": ["@AndrewPaglusch"],
+  "dependencies": [],
+  "documentation": "https://github.com/AndrewPaglusch/ha-mcp-timeout",
+  "iot_class": "calculated",
+  "issue_tracker": "https://github.com/AndrewPaglusch/ha-mcp-timeout/issues",
+  "requirements": [],
+  "version": "1.0.0"
+}
